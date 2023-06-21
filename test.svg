@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="500" height="300" style="border:1px red solid" xmlns="http://www.w3.org/2000/svg">
+    <foreignObject x="0" y="0" width="500" height="300"> 
+        <style  xmlns="http://www.w3.org/1999/xhtml">
+            body {
+                transform: rotate(180deg) translate(100%, 100%);
+            }
+        </style>
+        <h1  xmlns="http://www.w3.org/1999/xhtml">hi</h1>
+        <iframe xmlns="http://www.w3.org/1999/xhtml" src="https://www.google.com/" width="200" height="200"></iframe>
+    </foreignObject>
+</svg>
