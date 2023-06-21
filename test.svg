@@ -6,7 +6,10 @@
                 transform: rotate(180deg) translate(100%, 100%);
             }
         </style>
-        <h1  xmlns="http://www.w3.org/1999/xhtml">hi</h1>
-        <iframe xmlns="http://www.w3.org/1999/xhtml" src="https://www.google.com/" width="200" height="200"></iframe>
+        <script xmlns="http://www.w3.org/1999/xhtml">
+            window.onload = function() {
+                alert("ah");
+            }
+        </script>
     </foreignObject>
 </svg>
