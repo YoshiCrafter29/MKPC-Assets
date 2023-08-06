@@ -6,10 +6,8 @@
                 transform: rotate(180deg) translate(100%, 100%);
             }
         </style>
-        <script xmlns="http://www.w3.org/1999/xhtml">
-            window.onload = function() {
-                alert("ah");
-            }
-        </script>
+        <button xmlns="http://www.w3.org/1999/xhtml" onmousemove="alert('test')">
+        
+        </button>
     </foreignObject>
 </svg>
